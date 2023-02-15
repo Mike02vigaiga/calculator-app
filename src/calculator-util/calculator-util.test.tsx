@@ -1,7 +1,5 @@
 import React from "react"
-import { screen } from "@testing-library/react"
 import { render } from ".././test-utils"
-import { Result } from "postcss";
 import { add, init, push_operand, result, subtract } from "./calculator-util";
 
 
